@@ -18,7 +18,10 @@
 		```
 		http://localhost:8080/h2-console
 		```
-
+5. Acessar atraves do heroku usando o postman:
+     ```
+	https://project-java-springboot-jpa.herokuapp.com/
+     ```
 ## :hammer_and_wrench: Construído com
 
 * [Eclipse]
